@@ -53,4 +53,4 @@ adding 2 64 bit num
 0x10000004 - 0x80003012
 0x10000000 - 0x10000000
 
-![alt text](file:///home/shwetamanda/COD-Lab/week1/Screenshot%20from%202024-11-17%2011-17-35.png)
+![alt text](file:///home/shwetamanda/COD-Lab/week1/image2.png)
