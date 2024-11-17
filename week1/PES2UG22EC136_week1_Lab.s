@@ -1,3 +1,4 @@
+#Prgm 1
 .data
 a: .word 0x12345678  # Define a word with a Little Endian value
 
@@ -24,3 +25,4 @@ andi x15, x8, 0xFF # Get the last byte and store in x15
 add x16, x15, x14  # Combine it with the previous result
 
 sw x16, 4(x10)     # Store the Big Endian value back in memory at 'a + 4'
+
